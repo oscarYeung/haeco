@@ -1,0 +1,13 @@
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\bin\Release\FYP_GUI(v.1).exe.config
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\bin\Release\FYP_GUI(v.1).exe
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\bin\Release\FYP_GUI(v.1).pdb
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\HaecoQuestionGenerator.csprojResolveAssemblyReference.cache
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\HaecoQuestionGenerator.csproj.ResolveComReference.cache
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\FYP_GUI_v.__.FrmExport.resources
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\FYP_GUI_v.__.FrmMain.resources
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\FYP_GUI_v.__.FrmMenu.resources
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\FYP_GUI_v.__.Properties.Resources.resources
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\HaecoQuestionGenerator.csproj.GenerateResource.Cache
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\HaecoQuestionGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\FYP_GUI(v.1).exe
+C:\Users\nikea\Desktop\Haeco\Module Revision\FYP_GUI(v.1)\obj\Release\FYP_GUI(v.1).pdb

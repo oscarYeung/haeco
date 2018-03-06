@@ -1,0 +1,11 @@
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\bin\x86\Debug\FYP_GUI(v.1).exe.config
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\HaecoQuestionGenerator.csproj.ResolveComReference.cache
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\bin\x86\Debug\FYP_GUI(v.1).exe
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\bin\x86\Debug\FYP_GUI(v.1).pdb
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\FYP_GUI_v.__.FrmExport.resources
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\FYP_GUI_v.__.FrmMain.resources
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\FYP_GUI_v.__.FrmMenu.resources
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\FYP_GUI_v.__.Properties.Resources.resources
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\HaecoQuestionGenerator.csproj.GenerateResource.Cache
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\FYP_GUI(v.1).exe
+C:\Users\oscaryeung\Downloads\Haeco\Module Revision\FYP_GUI(v.1)\obj\x86\Debug\FYP_GUI(v.1).pdb

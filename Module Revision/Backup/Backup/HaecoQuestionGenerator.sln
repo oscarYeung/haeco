@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaecoQuestionGenerator", "FYP_GUI(v.1)\HaecoQuestionGenerator.csproj", "{F62A5429-AD55-4067-BCFF-ABF5903AD7D4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Setup1\Setup1.vdproj", "{2E8CFF35-A36E-442E-A914-CD5488767D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62A5429-AD55-4067-BCFF-ABF5903AD7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62A5429-AD55-4067-BCFF-ABF5903AD7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62A5429-AD55-4067-BCFF-ABF5903AD7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62A5429-AD55-4067-BCFF-ABF5903AD7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8CFF35-A36E-442E-A914-CD5488767D5F}.Debug|Any CPU.ActiveCfg = Debug
+		{2E8CFF35-A36E-442E-A914-CD5488767D5F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe.config
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Create_User.resources
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.UserNameText.resources
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\bin\Debug\PieChartControl.dll
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\bin\Debug\BarChartControl.dll
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Health_Report.resources
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.BMI_Suggestion.resources
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\FYP GUI Program\FYP_GUI(v.3)\FYP_GUI(v.1)\bin\Debug\itextsharp.dll
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe.config
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Health_Report.resources
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.BMI_Suggestion.resources
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Create_User.resources
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.UserNameText.resources
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Form2.resources
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LCD Sportmeter\Sportmeter Software\Sportmeter GUI\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe.config
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.UserNameText.resources
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Module Revision\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe.config
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).exe
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\bin\Debug\FYP_GUI(v.1).pdb
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\Sportmeter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.FrmMenu.resources
+C:\Documents and Settings\Administrator\桌面\新資料夾\Module Revision\FYP_GUI(v.1)\obj\Debug\FYP_GUI_v.__.FrmMain.resources
